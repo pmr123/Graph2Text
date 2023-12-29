@@ -1,4 +1,5 @@
 ﻿# Graph2Text: Get Textual data from Bar charts
+Please refer academic poster.pdf for some additional details
 
 # Requirements
 - PIL==10.0.1
